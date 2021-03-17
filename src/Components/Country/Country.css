@@ -1,0 +1,14 @@
+div {
+    text-align:center;
+}
+img{
+    height: 60px;
+}
+button{
+    background-color: goldenrod;
+    border:1px solid rgb(69, 102, 50);
+    width: 100px;
+    height:30px;
+    border-radius: 5px;
+
+}
